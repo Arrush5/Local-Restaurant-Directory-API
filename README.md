@@ -8,8 +8,10 @@ The above listed are requested to be installed before implementing this project
 ---
 ## Installation & Setup
 1. Clone the repository (or navigate to your project folder):
+```bash
 git clone https://github.com/Arrush5/Local-Restaurant-Directory-API.git
 cd Local-Restaurant-Directory-API
+```
 2. Install dependencies:
 pip install fastapi pymongo uvicorn
 3. Run the application:
@@ -37,7 +39,7 @@ uvicorn main:app --reload
 
 ---
 ## Folder Structure
-Day 5/
+Local-Restaurant-Directory-API/
 
 ├── main.py
 
